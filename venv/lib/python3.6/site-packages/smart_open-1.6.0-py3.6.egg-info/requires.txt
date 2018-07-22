@@ -1,0 +1,10 @@
+boto>=2.32
+bz2file
+requests
+boto3
+
+[test]
+mock
+moto==0.4.31
+pathlib2
+responses
